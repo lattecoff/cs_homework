@@ -1,0 +1,16 @@
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\bin\Debug\net5.0\summ_and_multiplication.exe
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\bin\Debug\net5.0\summ_and_multiplication.deps.json
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\bin\Debug\net5.0\summ_and_multiplication.runtimeconfig.json
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\bin\Debug\net5.0\summ_and_multiplication.runtimeconfig.dev.json
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\bin\Debug\net5.0\summ_and_multiplication.dll
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\bin\Debug\net5.0\ref\summ_and_multiplication.dll
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\bin\Debug\net5.0\summ_and_multiplication.pdb
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\obj\Debug\net5.0\summ_and_multiplication.csproj.AssemblyReference.cache
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\obj\Debug\net5.0\summ_and_multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\obj\Debug\net5.0\summ_and_multiplication.AssemblyInfoInputs.cache
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\obj\Debug\net5.0\summ_and_multiplication.AssemblyInfo.cs
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\obj\Debug\net5.0\summ_and_multiplication.csproj.CoreCompileInputs.cache
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\obj\Debug\net5.0\summ_and_multiplication.dll
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\obj\Debug\net5.0\ref\summ_and_multiplication.dll
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\obj\Debug\net5.0\summ_and_multiplication.pdb
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\summ_and_multiplication\obj\Debug\net5.0\summ_and_multiplication.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\parity_check\bin\Debug\parity_check.exe.config
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\parity_check\bin\Debug\parity_check.exe
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\parity_check\bin\Debug\parity_check.pdb
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\parity_check\obj\Debug\parity_check.csproj.AssemblyReference.cache
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\parity_check\obj\Debug\parity_check.csproj.CoreCompileInputs.cache
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\parity_check\obj\Debug\parity_check.exe
+C:\Users\wstark\Desktop\SampleCode\Homework\Homework\parity_check\obj\Debug\parity_check.pdb

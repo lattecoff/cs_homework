@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "summ_and_multiplication/1.0.0": {
+        "runtime": {
+          "summ_and_multiplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "summ_and_multiplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
