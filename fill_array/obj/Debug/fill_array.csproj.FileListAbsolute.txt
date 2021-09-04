@@ -1,0 +1,7 @@
+C:\Users\wstark\Desktop\SampleCode\Homework\cs_homework\fill_array\bin\Debug\fill_array.exe.config
+C:\Users\wstark\Desktop\SampleCode\Homework\cs_homework\fill_array\bin\Debug\fill_array.exe
+C:\Users\wstark\Desktop\SampleCode\Homework\cs_homework\fill_array\bin\Debug\fill_array.pdb
+C:\Users\wstark\Desktop\SampleCode\Homework\cs_homework\fill_array\obj\Debug\fill_array.csproj.AssemblyReference.cache
+C:\Users\wstark\Desktop\SampleCode\Homework\cs_homework\fill_array\obj\Debug\fill_array.csproj.CoreCompileInputs.cache
+C:\Users\wstark\Desktop\SampleCode\Homework\cs_homework\fill_array\obj\Debug\fill_array.exe
+C:\Users\wstark\Desktop\SampleCode\Homework\cs_homework\fill_array\obj\Debug\fill_array.pdb
