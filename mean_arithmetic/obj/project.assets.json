@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\mean_arithmetic\\mean_arithmetic.csproj",
+      "projectUniqueName": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\mean_arithmetic\\mean_arithmetic.csproj",
       "projectName": "mean_arithmetic",
-      "projectPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\mean_arithmetic\\mean_arithmetic.csproj",
+      "projectPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\mean_arithmetic\\mean_arithmetic.csproj",
       "packagesPath": "C:\\Users\\wstark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\mean_arithmetic\\obj\\",
+      "outputPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\mean_arithmetic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wstark\\AppData\\Roaming\\NuGet\\NuGet.Config",

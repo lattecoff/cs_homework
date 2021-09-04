@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\summ_and_multiplication\\summ_and_multiplication.csproj": {}
+    "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\summ_and_multiplication\\summ_and_multiplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\summ_and_multiplication\\summ_and_multiplication.csproj": {
+    "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\summ_and_multiplication\\summ_and_multiplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\summ_and_multiplication\\summ_and_multiplication.csproj",
+        "projectUniqueName": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\summ_and_multiplication\\summ_and_multiplication.csproj",
         "projectName": "summ_and_multiplication",
-        "projectPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\summ_and_multiplication\\summ_and_multiplication.csproj",
+        "projectPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\summ_and_multiplication\\summ_and_multiplication.csproj",
         "packagesPath": "C:\\Users\\wstark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\summ_and_multiplication\\obj\\",
+        "outputPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\summ_and_multiplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wstark\\AppData\\Roaming\\NuGet\\NuGet.Config",

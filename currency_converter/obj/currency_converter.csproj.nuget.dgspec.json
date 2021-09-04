@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\currency_converter\\currency_converter.csproj": {}
+    "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\currency_converter\\currency_converter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\currency_converter\\currency_converter.csproj": {
+    "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\currency_converter\\currency_converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\currency_converter\\currency_converter.csproj",
+        "projectUniqueName": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\currency_converter\\currency_converter.csproj",
         "projectName": "currency_converter",
-        "projectPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\currency_converter\\currency_converter.csproj",
+        "projectPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\currency_converter\\currency_converter.csproj",
         "packagesPath": "C:\\Users\\wstark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\Homework\\currency_converter\\obj\\",
+        "outputPath": "C:\\Users\\wstark\\Desktop\\SampleCode\\Homework\\cs_homework\\currency_converter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wstark\\AppData\\Roaming\\NuGet\\NuGet.Config",
