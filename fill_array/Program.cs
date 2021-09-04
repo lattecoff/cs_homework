@@ -18,11 +18,11 @@ namespace fill_array
                 int[] userArray= new int[sizeArray];
                 Console.WriteLine("Введите эелемент массива");
 
-                for(int i = 0; i < sizeArray; i++)
+                for(int i = 0; i < userArray.Length; i++)
                 {
                     if (int.TryParse(Console.ReadLine(), out userArray[i]))
                     {
-                        Console.WriteLine("Введите следующий эелемент массива");
+                        Console.WriteLine("Введите следующий элемент массива");
                     }
                     else
                     {
